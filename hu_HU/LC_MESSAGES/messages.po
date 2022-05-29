@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "Magyar nyelv/Hungarian"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "Ne izgasd fel magad a blokkolt fiókok számán."
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook"
+
+#: 
+msgid "全体の情報"
+msgstr "Összesített adatok"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "Jelenleg felregisztrált felhasználók"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "Visszavont fiókok"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "Jelenlegi blokkolt információ számláló"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "Egyedi számláló"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "Ez a rendszer megmutatja hogy hány ember blokkolta le a fiókod.<br/>Ezért információkat gyűjtünk arról, hogy mely fiókokat blokkolsz, és a többi fiókoktól ezt összehasonlítjuk.<br/>(Abban az esetben, ha a fiók nem használja ezt a szolgáltatást, és letiltotta a fiókod, azt nem számítjuk bele.)<br/>Minél többen használják a rendszerünket, annál pontosabb eredményekkel tudunk szolgálni.<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "A fiókód"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "Fiókok akik kiblokkoltak téged"
+
+#: 
+msgid "ブロックした件数"
+msgstr "Fiókok akiket te blokkoltál"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "%s ember blokkolt le engem."
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "Nem blokkolt le engem senki."
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "Talán nem blokkolt le engem senki."
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "Ha nem emlékszel hogy blokkoltál volna"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "Kérlek tekinsd meg <a href='https://twitter.com/settings/blocked' target='_blank'>az általad leblokkolt fiókok listáját.</a>."
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "Kérlek biztosísd hogy nincs semmi olyan <a href='https://twitter.com/settings/applications' target='_blank'>alkalmazás összekapcsolva a Twitter-fiókodhoz,</a> aminek az összekapcsolásához nem emlékezel."
+
+#: 
+msgid "レコメンド"
+msgstr "Ajánlott"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(Fiókok amik olyan fiókokat blokkoltak le, amit te, azok is fiókok amiket te blokkoltál le.)"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "A blokkolt fiókok adatai egy órán belül gyűjtődnek össze, ezért lehetséges hogy a már le kért adatok eredményeit kapod meg, miközben új adat is készül."
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "Bejelentkezés Twitterrel"
+
+#: 
+msgid "接待モード"
+msgstr "Blokkolt adatok elrejtése"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "Ne tekintsd meg a blokkolt adatokat."
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "A rendszer nem osztja meg senkivel a gyűjtött adatokat a \"Ki blokkolt le kicsodát\"-tal vonatkozóan."
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "Adatok frissítése érdekében azt ajánljuk hogy ez az alkalmazás maradjon összekötve a fiókoddal."
+
+#: 
+msgid "順位%s位"
+msgstr "%s. helyezett"
+
+#: 
+msgid "制作者"
+msgstr "Szerző"
+
+#: 
+msgid "翻訳協力"
+msgstr "Közreműködő fordítás"
+
+#: 
+msgid "集計中"
+msgstr "Összesítés"
+
+#: 
+msgid "あなたの位置"
+msgstr "Te helyezésed"
+
+#: 
+msgid "件"
+msgstr "számolás"
+
+#: 
+msgid "人"
+msgstr "fiókok"
+
+#: 
+msgid "サンプル"
+msgstr "sablon"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "Téged blokkolt emberek általi részletek mutatása"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "Te általad blokkolt emberek részletjének mutatása"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "Közös blokkolás"
+
+#: 
+msgid "ブロック"
+msgstr "blokkolva"
+
+#: 
+msgid "件以上ブロック"
+msgstr "túl blokkolt fiókok"
+
+#: 
+msgid "件ブロック"
+msgstr "blokkolt fiókok"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Ha bármi hiba akadt a fordításban, kérlek szólj. 翻訳に間違いがあれば教えてください。"
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "Az ajánlások jelenleg nem elérhetőek."
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "Blog posztok \"blolook\" cimkével megjelölve (japánul)"
+

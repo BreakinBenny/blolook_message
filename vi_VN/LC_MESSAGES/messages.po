@@ -1,0 +1,214 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "tiếng Việt/Vietnamese"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+
+msgid "web_site_description_content"
+msgstr "Chúng tôi khuyên bạn không nên băn khoăn về số lượng người chặn bạn hoặc về kết quả của những người khác. Chúng ta không thể kết nối với nhau"
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+
+msgid "ぶろるっく"
+msgstr "Người chặn bạn"
+
+#: 
+
+msgid "全体の情報"
+msgstr "Thông tin tổng thể"
+
+#: 
+
+msgid "現在の登録アカウント数"
+msgstr "Các tài khoản đã theo dõi hiện tại"
+
+#: 
+
+msgid "登録後連係解除アカウント"
+msgstr "Tài khoản bị hủy"
+
+#: 
+
+msgid "現在のブロック情報件数"
+msgstr "Số lượng thông tin tài khoản chặn hiện tại"
+
+#: The number of people who are blocked.
+
+msgid "ユニーク件数"
+msgstr "số lượng duy nhất"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+
+msgid "説明"
+msgstr "Dịch vụ này cung cấp thông tin về số lượng tài khoản đang chặn tài khoản của bạn. <br/> Để đạt được điều này, chúng tôi thu thập thông tin về những tài khoản mà tài khoản của bạn đang chặn và tham chiếu chéo nó với thông tin từ các tài khoản khác. <br/> (Nếu tài khoản không sử dụng dịch vụ này đang chặn tài khoản của bạn, tài khoản đó sẽ không được tính.) <br/> Khi số lượng người dùng sử dụng dịch vụ này tăng lên, thông tin chúng tôi cung cấp sẽ trở nên chính xác hơn. < br />"
+
+#: 
+
+msgid "あなたの情報"
+msgstr "tài khoản của bạn"
+
+#: 
+
+msgid "ブロックされた件数"
+msgstr "tài khoản chặn bạn"
+
+#: 
+
+msgid "ブロックした件数"
+msgstr "tài khoản bạn chăn"
+
+#: 
+
+msgid "わたしは%s人からブロックされています"
+msgstr "bạn đã bị chặn bởi %s người"
+
+#: 
+
+msgid "わたしは誰からもブロックされていません"
+msgstr "tôi đã không bị chặn bởi người khác"
+
+#: 
+
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "Tôi có lẽ không bị ai chặn"
+
+#: 
+
+msgid "ブロックした覚えがない場合"
+msgstr "Nếu bạn không nhớ chặn"
+
+#: 
+
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "Vui lòng kiểm tra danh sách người dùng mà <a href='https://twitter.com/settings/blocked' target='_blank'> bạn đã chặn trên Twitter </a>"
+
+#: 
+
+msgid "Twitterのアプリ連携"
+msgstr "Hãy đảm bảo rằng không có <a href='https://twitter.com/settings/application' target='_blank'> ứng dụng nào được liên kết với tài khoản Twitter của bạn </a> mà bạn không nhớ là đã ủy quyền."
+
+#: 
+
+msgid "レコメンド"
+msgstr "Được đề xuất"
+
+#: 
+
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(Các tài khoản đã chặn cùng tài khoản với bạn cũng có xu hướng là tài khoản bạn đã chặn)"
+
+#: 
+
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "Thông tin về các tài khoản bị chặn được thu thập trong vòng một giờ, và do đó khả năng nhận được thông tin từ các bên bị chặn vẫn tồn tại trong khi dữ liệu mới đang được cập nhật."
+
+#: 
+
+msgid "ログインして数えてみる"
+msgstr "đăng nhập với twitter"
+
+#: 
+
+msgid "接待モード"
+msgstr "Ẩn thông tin bị chặn"
+
+#: 
+
+msgid "被ブロック情報は見ません"
+msgstr "Không xem thông tin bị chặn"
+
+#: 
+
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "Thông tin thu thập liên quan đến “ai đã chặn ai” không được dịch vụ này công bố"
+
+#: 
+
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "Để cập nhật dữ liệu của chúng tôi theo định kỳ, chúng tôi yêu cầu bạn liên kết ứng dụng này."
+
+#: 
+
+msgid "順位%s位"
+msgstr "Số thứ hạng:% s"
+
+#: 
+
+msgid "制作者"
+msgstr "Người sáng tạo"
+
+#: 
+
+msgid "翻訳協力"
+msgstr "Cộng tác dịch thuật"
+
+#: 
+
+msgid "集計中"
+msgstr "Trong tổng hợp"
+
+#: 
+
+msgid "あなたの位置"
+msgstr "Vị trí của bạn"
+
+#: 
+
+msgid "件"
+msgstr "Tổng số, kiểm tra"
+
+#: 
+
+msgid "人"
+msgstr "tài khoản"
+
+#: 
+
+msgid "サンプル"
+msgstr "mẫu"
+
+#: 
+
+msgid "ブロックされた数分布"
+msgstr "Phân phối số lượng tài khoản đang chặn bạn"
+
+#: 
+
+msgid "ブロックした数分布"
+msgstr "Phân phối số lượng tài khoản bị chặn"
+
+#: 
+
+msgid "相互ブロック件数"
+msgstr "Khối hỗ trợ"
+
+#: 
+
+msgid "ブロック"
+msgstr "bị chặn"
+
+#: 
+
+msgid "件以上ブロック"
+msgstr "tài khoản bị chặn quá mức"
+
+#: 
+
+msgid "件ブロック"
+msgstr "tài khoản bị chặn"
+
+#: 
+
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Xin vui lòng cho tôi biết nếu có một sai lầm trong bản dịch.翻 訳 に 間 違 い が あ れ ば 教 え て く だ さ い"
+
+#: 
+
+msgid "レコメンド機能はお休み中です。"
+msgstr "Đề xuất hiện không có sẵn."
+
+#: 
+
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "(Tiếng Nhật) các bài đăng trên blog được gắn thẻ \"blolook\""
+

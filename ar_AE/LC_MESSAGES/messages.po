@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "عَرَبِيّ (الإمارات العربية المتحدة)/Arabic(United Arab Emirates)"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "We suggest you don't fret over the amount of blocks or over the results of others. We can't all get along."
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "بلولوك"
+
+#: 
+msgid "全体の情報"
+msgstr "معلومات عامة"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "الحسابات المسجلة حالياً"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "الحسابات المرفوضة"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "عدد معلومات الحظر الحالية"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "أعداد الحسابات الفريدة"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "توفر هذه الخدمة معلومات حول عدد الحسابات التي حظرت حسابك. <br/> لتحقيق ذلك ، نجمع معلومات عن الحسابات التي يحظرها حسابك ، ونشير إليها بمعلومات من حسابات أخرى. <br/> (إذا كان الحساب الذي حظرك لا يستخدم هذه الخدمة، فلن يتم احتسابه.) <br/> مع زيادة عدد المستخدمين الذين يستخدمون هذه الخدمة ، ستصبح المعلومات التي نقدمها أكثر دقة. <br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "حسابك"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "الحسابات التي حظرتك"
+
+#: 
+msgid "ブロックした件数"
+msgstr "الحسابات التي حظرتها"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "لقد تم حظري من قبل s% من الأشخاص."
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "أنا لست محظور من قبل أي شخص"
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "ينبغي أن لم يحظرني أحد"
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "إذا لم تتذكر حظر أحد"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "يرجى التحقق من قائمة المحظورين <a href='https://twitter.com/settings/blocked' target='_blank'>بتويتر</a>."
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "Please ensure that there are no <a href='https://twitter.com/settings/applications' target='_blank'>applications linked to your Twitter account</a> which you do not remember authorizing."
+
+#: 
+msgid "レコメンド"
+msgstr "Recommended"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(Accounts that have blocked the same accounts as you also tend to be accounts you have blocked)"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "Information about blocked accounts is collected within an hour, and therefore the possibility of receiving information from blocked parties exists while new data is being updated."
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "Log in with Twitter"
+
+#: 
+msgid "接待モード"
+msgstr "Hide blocked information"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "Do not view blocked information"
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "Collected information pertaining to “who blocked whom” is not published by this service."
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "In order to periodically update our data, we request that you leave this application linked."
+
+#: 
+msgid "順位%s位"
+msgstr "Rank number:%s"
+
+#: 
+msgid "制作者"
+msgstr "Author"
+
+#: 
+msgid "翻訳協力"
+msgstr "Translation collaboration"
+
+#: 
+msgid "集計中"
+msgstr "In the aggregate"
+
+#: 
+msgid "あなたの位置"
+msgstr "Your position"
+
+#: 
+msgid "件"
+msgstr "count"
+
+#: 
+msgid "人"
+msgstr "accounts"
+
+#: 
+msgid "サンプル"
+msgstr "sample"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "Distribution of the number of accounts blocking you"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "Distribution of the number of accounts blocked"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "Mutual blocks"
+
+#: 
+msgid "ブロック"
+msgstr "blocked"
+
+#: 
+msgid "件以上ブロック"
+msgstr "accounts over blocked"
+
+#: 
+msgid "件ブロック"
+msgstr "accounts blocked"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Please tell me if there is a mistake in the translation. 翻訳に間違いがあれば教えてください。"
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "Recommendations are not currently available."
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "(Japanese language) blog posts tagged \"blolook\""
+

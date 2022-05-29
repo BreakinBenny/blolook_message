@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "简体中文/Simplified Chinese"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "不要为屏蔽自己的人数而悲叹，看看别人的结果，你就知道「并不是所有的人看你很顺眼的」"
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook"
+
+#: 
+msgid "全体の情報"
+msgstr "整体信息"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "目前注册的账号数量"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "登录后解除关联的账号"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "当前总屏蔽信息量（人次）"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "唯一的编号"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "此服务收集屏蔽您的账号的信息。<br/>测定在Twitter上屏蔽你的人数。<br/>但是，如果屏蔽你的账号实际上并没有使用本服务，本服务无法测定。<br/>用户增加后再次查看时，可能会有不同的测定结果。<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "您的信息"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "屏蔽你的人数"
+
+#: 
+msgid "ブロックした件数"
+msgstr "你屏蔽的人数"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "我被%s人屏蔽"
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "我没有被任何人屏蔽"
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "我本来没被任何人屏蔽"
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "如果不记得屏蔽过别人的话"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "<a href='https://twitter.com/settings/blocked' target='_blank'>查看你在Twitter上屏蔽的人</a>"
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "<a href='https://twitter.com/settings/applications' target='_blank'>前往Twitter的应用程序</a>确认一下是否有不记得有授权过的应用程序"
+
+#: 
+msgid "レコメンド"
+msgstr "建议"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "（和您屏蔽了同样账号的人也屏蔽了以下账号）"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "1小时之内获取的屏蔽信息，会由于未进行数据更新，导致这儿可能会出现你已经屏蔽的账号。"
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "登录并开始统计"
+
+#: 
+msgid "接待モード"
+msgstr "接待模式"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "不查看被屏蔽信息"
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "本服务不会公开所收集的「谁屏蔽了谁」之类的信息。"
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "为了能够定期更新数据，希望您能够保持关联「ぶろるっく(blolook)」。"
+
+#: 
+msgid "順位%s位"
+msgstr "排名:%s"
+
+#: 
+msgid "制作者"
+msgstr "制作者"
+
+#: 
+msgid "翻訳協力"
+msgstr "翻译合作"
+
+#: 
+msgid "集計中"
+msgstr "统计中"
+
+#: 
+msgid "あなたの位置"
+msgstr "您的位置"
+
+#: 
+msgid "件"
+msgstr "号"
+
+#: 
+msgid "人"
+msgstr "人"
+
+#: 
+msgid "サンプル"
+msgstr "样本"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "被屏蔽的人数分布统计图"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "所屏蔽的人数分布统计图"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "互相屏蔽"
+
+#: 
+msgid "ブロック"
+msgstr "屏蔽"
+
+#: 
+msgid "件以上ブロック"
+msgstr "个以上屏蔽"
+
+#: 
+msgid "件ブロック"
+msgstr "个屏蔽"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "如果翻译有错请告诉我。翻訳に間違いがあれば教えてください。"
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "推荐功能处于休眠状态。"
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "（日语）写有「ぶろるっく(blolook)」标签的投稿"
+

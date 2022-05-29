@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "한국어/Korean"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "차단된 수에 연연하지 않으시길 바랍니다. 숫자는 숫자일 뿐입니다."
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook(브로룩)"
+
+#: 
+msgid "全体の情報"
+msgstr "전체 정보"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "현재 등록계정 수"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "등록 후 연동 해제 계정"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "현재 차단 정보 건수"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "고유 건수"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "이 서비스는 여러분의 트위터 계정을 차단한 계정의 수를 제공합니다. <br/> 이를 위해 여러분의 계정이 차단한 계정의 목록을 수집하고 상호 대조를 수행합니다. <br/>(여러분의 계정을 차단한 어떤 계정이 이 서비스를 사용하고 있지 않다면 계산 결과에도 포함되지 않습니다.) <br/> 이용자가 많아질수록 결과가 더 정확해지게 됩니다.<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "내 계정"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "내 계정을 차단한 계정"
+
+#: 
+msgid "ブロックした件数"
+msgstr "내가 차단한 계정"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "나는 %s명에게 차단되었습니다."
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "내 계정은 누구로부터도 차단되지 않았습니다"
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "여러분은 누구로부터도 차단되지 않았을 것입니다"
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "차단한 적이 없다고 생각하신다면,"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "<a href='https://twitter.com/settings/blocked' target='_blank'>트위터에서 차단한 사용자 계정</a>을 확인해주세요."
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "<a href='https://twitter.com/settings/applications' target='_blank'>트위터의 애플리케이션</a>에서, 승인한 기억이 없는 어플은 없는지 확인해주세요."
+
+#: 
+msgid "レコメンド"
+msgstr "추천"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(나와 비슷하게 차단한 사람들이 차단하고 있는 계정)"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "1시간 이내의 차단 정보를 얻은 경우, 자료 갱신을 하지 않아, 이미 차단된 계정이 표시되는 경우가 있습니다."
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "로그인해서 확인해보기"
+
+#: 
+msgid "接待モード"
+msgstr "상세정보"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "차단된 정보는 볼 수 없습니다"
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "본 서비스에서 수집한 ‘누가 누구를 차단했는가’에 관한 정보는 비공개로 처리됩니다."
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "정기적으로 정보를 갱신하기 위해, 애플리케이션의 ‘blolook(ぶろるっく)’을 유지해주시기 바랍니다."
+
+#: 
+msgid "順位%s位"
+msgstr "순위 %s위"
+
+#: 
+msgid "制作者"
+msgstr "제작자"
+
+#: 
+msgid "翻訳協力"
+msgstr "번역 제공"
+
+#: 
+msgid "集計中"
+msgstr "집계 중"
+
+#: 
+msgid "あなたの位置"
+msgstr "내 계정의 위치"
+
+#: 
+msgid "件"
+msgstr "건"
+
+#: 
+msgid "人"
+msgstr "명"
+
+#: 
+msgid "サンプル"
+msgstr "표본"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "차단된 수의 분포"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "차단한 수의 분포"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "상호 차단 건수"
+
+#: 
+msgid "ブロック"
+msgstr "차단"
+
+#: 
+msgid "件以上ブロック"
+msgstr "건 이상의 차단"
+
+#: 
+msgid "件ブロック"
+msgstr "건 차단"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "오역이 있다면 이 링크로 알려주시기 바랍니다. (翻訳に間違いがあれば教えてください。)"
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "추천 기능이 쉬는 중입니다."
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "일기로 ‘브로룩’ 태그 작성(일본어 사이트)"
+

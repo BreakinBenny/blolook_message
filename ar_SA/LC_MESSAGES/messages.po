@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "عَرَبِيّ (المملكة العربية السعودية)/Arabic(Saudi Arabia)"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "نقترح ألا تقلق بشأن كمية الحظر أو نتائج الآخرين. لا يمكننا أن نتعايش جميعًا."
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "بلولوك"
+
+#: 
+msgid "全体の情報"
+msgstr "المعلومات العامة"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "الحسابات المسجَلة حاليًا"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "الحسابات الملغاة"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "عدد معلومات الحظر الحالية"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "عدد فريد"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "توفر هذه الخدمة معلومات حول عدد الحسابات التي تحظر حسابك.<br/> لتحقيق ذلك، نجمع معلومات عن الحسابات التي يحظرها حسابك، ونرجع إليها معلومات من حسابات أخرى. <br/> (إذا كان الحساب الذي لا يستخدم هذه الخدمة يحظر حسابك، فلن يتم احتسابه.) <br/> مع زيادة عدد المستخدمين الذين يستخدمون هذه الخدمة، ستصبح المعلومات التي نقدمها أكثر دقة.<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "حسابك"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "الحسابات التي حظرتك"
+
+#: 
+msgid "ブロックした件数"
+msgstr "الحسابات التي حظرتها"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "لقد تم حظري من قبل %s أشخاص."
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "لم يتم حظري من قبل أي شخص."
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "ربما لم يتم حظري من قبل أي شخص."
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "إذا كنت لا تتذكر الحظر"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "يرجى التحقق من قائمة المستخدمين <a href='https://twitter.com/settings/blocked' target='_blank'>الذين حظرتهم على تويتر</a>."
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "يرجى التأكد من عدم وجود <a href='https://twitter.com/settings/applications' target='_blank'>تطبيقات مرتبطة بحسابك على Twitter </a> والتي لا تتذكر ترخيصها."
+
+#: 
+msgid "レコメンド"
+msgstr "موصى به"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(الحسابات التي حظرت نفس الحسابات كما تميل أيضًا إلى أن تكون حسابات قمت بحظرها)"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "يتم جمع المعلومات حول الحسابات المحظورة في غضون ساعة، وبالتالي توجد إمكانية تلقي المعلومات من الأطراف المحظورة أثناء تحديث البيانات الجديدة."
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "سجّل الدخول بواسطة تويتر"
+
+#: 
+msgid "接待モード"
+msgstr "أخفي معلومات المحظورة"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "لا تُظهر المعلومات المحظورة"
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "Collected information pertaining to “who blocked whom” is not published by this service."
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "In order to periodically update our data, we request that you leave this application linked."
+
+#: 
+msgid "順位%s位"
+msgstr "Rank number:%s"
+
+#: 
+msgid "制作者"
+msgstr "المؤلّف"
+
+#: 
+msgid "翻訳協力"
+msgstr "Translation collaboration"
+
+#: 
+msgid "集計中"
+msgstr "In the aggregate"
+
+#: 
+msgid "あなたの位置"
+msgstr "Your position"
+
+#: 
+msgid "件"
+msgstr "count"
+
+#: 
+msgid "人"
+msgstr "حسابات"
+
+#: 
+msgid "サンプル"
+msgstr "عيّنة"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "Distribution of the number of accounts blocking you"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "Distribution of the number of accounts blocked"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "الحظر المتبادل"
+
+#: 
+msgid "ブロック"
+msgstr "محظور"
+
+#: 
+msgid "件以上ブロック"
+msgstr "أكثر من الحسابات المحظورة"
+
+#: 
+msgid "件ブロック"
+msgstr "الحسابات المحظورة"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "يرجى إخباري إن كان هناك أي أخطاء في الترجمة. 翻訳に間違いがあれば教えてください。"
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "التوصيات غير متوفرة حاليًا."
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "(باللغة اليابانية) منشورات المدونة الموسومة بعلامة \"بلولوك\""
+

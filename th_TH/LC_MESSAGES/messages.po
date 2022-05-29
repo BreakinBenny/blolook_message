@@ -1,0 +1,200 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "ภาษาไทย/Thai"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "ไม่ต้องไปสนใจจำนวนที่ถูกบล็อก แต่ไม่ต้องเป็นห่วงด้วยการดูผลที่แสดงออกมาของคนอื่นเพราะ \"ผู้คนสามารถไม่เข้าใจได้ทุกคน\""
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook"
+
+#: 
+msgid "全体の情報"
+msgstr "ข้อมูลโดยรวมทั้งหมด"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "บัญชีที่ลงทะเบียนแล้ว"
+
+#: 
+#, fuzzy
+msgid "登録後連係解除アカウント"
+msgstr "บัญชีที่ปฏิเสธ"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "จำนวนข้อมูลการถูกบล็อกในตอนนี้"
+
+#: The number of people who are blocked.
+#, fuzzy
+msgid "ユニーク件数"
+msgstr "Unique count"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "บริการนี้เป็นการรวบรวมข้อมูลต่างๆที่คุณถูกบล็อก <br/>โดยที่บริการของเราจะนับจำนวนครั้งที่คุณถูกบล็อกบนทวิตเตอร์ <br/>เว้นแต่ว่าบัญชีที่มีการบล็อกจริงๆกำลังใช้บริการนี้อยู่ ก็จะไม่ถูกนับรวมเข้าในบริการนี้ <br/>ถ้าจำนวนของผู้ใช้บริการนี้มีจำนวนมากขึ้นเรื่อยๆ คุณก็อาจจะเห็นจำนวนที่นับไว้นั้นแตกต่างออกไป<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "ข้อมูลของคุณ"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "จำนวนที่ถูกบล็อก"
+
+#: 
+msgid "ブロックした件数"
+msgstr "จำนวนที่คุณบล็อก"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "ฉันโดนถูกบล็อก %s คน"
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "ฉันยังไม่โดนใครมาบล็อกเราสักคน"
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "ฉันไม่ควรถูกใครบอกเลยสักคน"
+
+#: 
+#, fuzzy
+msgid "ブロックした覚えがない場合"
+msgstr "ถ้าคุณจำไม่ได้ว่าบล็อกใครอยู่"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "ลองไปตรวจสอบรายชื่อที่คุณบล็อกได้ที่ https://twitter.com/settings/blocked' target='_blank'>หน้าตั้งค่าทวิตเตอร์</a>"
+
+#: 
+#, fuzzy
+msgid "Twitterのアプリ連携"
+msgstr "<a href='https://twitter.com/settings/applications' target='_blank'>หรือจากแอพทวิตเตอร์</a> เช็คให้แน่ใจว่าไม่มีแอพที่คุณอนุญาตไว้"
+
+#: 
+msgid "レコメンド"
+msgstr "แนะนำ"
+
+#: 
+#, fuzzy
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(บัญชีถูกบล็อกโดยทั้งคุณและผู้ใช้คนอื่นมักจะเป็นบัญชีที่ถูกบล็อกเป็นประจำ)"
+
+#: 
+#, fuzzy
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "Information of blocked accounts is processed within an hour, and therefore the possibility of receiving information from blocked parties exists while new data is being updated."
+
+#: 
+#, fuzzy
+msgid "ログインして数えてみる"
+msgstr "To Twitter authentication"
+
+#: 
+#, fuzzy
+msgid "接待モード"
+msgstr "The block information is not seen"
+
+#: 
+#, fuzzy
+msgid "被ブロック情報は見ません"
+msgstr "Do not view the blocked information"
+
+#: 
+#, fuzzy
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "Collected information pertaining to “who blocked whom” is not published by this service."
+
+#: 
+#, fuzzy
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "In order to update the data on a regular basis, I\"d like you to leave the application linkage 'blolook'."
+
+#: 
+#, fuzzy
+msgid "順位%s位"
+msgstr "Rank number:%s"
+
+#: 
+#, fuzzy
+msgid "制作者"
+msgstr "Author"
+
+#: 
+#, fuzzy
+msgid "翻訳協力"
+msgstr "Translation cooperation"
+
+#: 
+#, fuzzy
+msgid "集計中"
+msgstr "In the aggregate"
+
+#: 
+#, fuzzy
+msgid "あなたの位置"
+msgstr "Your position"
+
+#: 
+#, fuzzy
+msgid "件"
+msgstr "count"
+
+#: 
+#, fuzzy
+msgid "人"
+msgstr "accounts"
+
+#: 
+#, fuzzy
+msgid "サンプル"
+msgstr "sample"
+
+#: 
+#, fuzzy
+msgid "ブロックされた数分布"
+msgstr "The number of the block distribution"
+
+#: 
+#, fuzzy
+msgid "ブロックした数分布"
+msgstr "The count was blocked distribution"
+
+#: 
+#, fuzzy
+msgid "相互ブロック件数"
+msgstr "mutual blocked"
+
+#: 
+#, fuzzy
+msgid "ブロック"
+msgstr "blocked"
+
+#: 
+#, fuzzy
+msgid "件以上ブロック"
+msgstr "accounts over blocked"
+
+#: 
+#, fuzzy
+msgid "件ブロック"
+msgstr "accounts blocked"
+
+#: 
+#, fuzzy
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Please tell me if there is a mistake in translation. 翻訳に間違いがあれば教えてください。"
+
+#: 
+#, fuzzy
+msgid "レコメンド機能はお休み中です。"
+msgstr "Recommendation feature is dormant."
+
+#: 
+#, fuzzy
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "日記より「ぶろるっく」タグの付いた投稿"
+

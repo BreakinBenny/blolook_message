@@ -1,0 +1,210 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "Deutsch(Nicht übersetzt)/German"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "Kümmern Sie sich nicht um die blockierte Nummer, aber machen Sie sich keine Sorgen, wenn Sie die Ergebnisse anderer ansehen: \"Die Leute können nicht jeden verstehen.\""
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook"
+
+#: 
+msgid "全体の情報"
+msgstr "Allgemeine Informationen"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "Registrierte Accounts"
+
+#: 
+#, fuzzy
+msgid "登録後連係解除アカウント"
+msgstr "Rejection accounts"
+
+#: 
+#, fuzzy
+msgid "現在のブロック情報件数"
+msgstr "Current block information count"
+
+#: The number of people who are blocked.
+#, fuzzy
+msgid "ユニーク件数"
+msgstr "Unique count"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+#, fuzzy
+msgid "説明"
+msgstr "This service collects information you blocked. <br/>This service counts the number of times you have been blocked on Twitter. <br/> However, unless the account doing the actual blocking is using this service, it cannot be counted by this service. <br/> If the number of users employing this service happens to increase, you might see a different count.<br/>"
+
+#: 
+#, fuzzy
+msgid "あなたの情報"
+msgstr "Your information"
+
+#: 
+#, fuzzy
+msgid "ブロックされた件数"
+msgstr "blocked from"
+
+#: 
+#, fuzzy
+msgid "ブロックした件数"
+msgstr "blocked to"
+
+#: 
+#, fuzzy
+msgid "わたしは%s人からブロックされています"
+msgstr "I have been blocked from %s people."
+
+#: 
+#, fuzzy
+msgid "わたしは誰からもブロックされていません"
+msgstr "I have not been blocked from anyone."
+
+#: 
+#, fuzzy
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "I should not have been blocked from anyone."
+
+#: 
+#, fuzzy
+msgid "ブロックした覚えがない場合"
+msgstr "If you did not block"
+
+#: 
+#, fuzzy
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "Please check the user list that <a href='https://twitter.com/settings/blocked' target='_blank'>you block on Twitter</a>."
+
+#: 
+#, fuzzy
+msgid "Twitterのアプリ連携"
+msgstr "<a href='https://twitter.com/settings/applications' target='_blank'>From Apps of Twitter</a>, Please make sure there is no do not remember app you allow."
+
+#: 
+#, fuzzy
+msgid "レコメンド"
+msgstr "Recommend"
+
+#: 
+#, fuzzy
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(The accounts blocked by both you and another user tend to be accounts regularly blocked)"
+
+#: 
+#, fuzzy
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "Information of blocked accounts is processed within an hour, and therefore the possibility of receiving information from blocked parties exists while new data is being updated."
+
+#: 
+#, fuzzy
+msgid "ログインして数えてみる"
+msgstr "To Twitter authentication"
+
+#: 
+#, fuzzy
+msgid "接待モード"
+msgstr "The block information is not seen"
+
+#: 
+#, fuzzy
+msgid "被ブロック情報は見ません"
+msgstr "Do not view the blocked information"
+
+#: 
+#, fuzzy
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "Collected information pertaining to “who blocked whom” is not published by this service."
+
+#: 
+#, fuzzy
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "In order to update the data on a regular basis, I\"d like you to leave the application linkage 'blolook'."
+
+#: 
+#, fuzzy
+msgid "順位%s位"
+msgstr "Rank number:%s"
+
+#: 
+#, fuzzy
+msgid "制作者"
+msgstr "Author"
+
+#: 
+#, fuzzy
+msgid "翻訳協力"
+msgstr "Translation cooperation"
+
+#: 
+#, fuzzy
+msgid "集計中"
+msgstr "In the aggregate"
+
+#: 
+#, fuzzy
+msgid "あなたの位置"
+msgstr "Your position"
+
+#: 
+#, fuzzy
+msgid "件"
+msgstr "count"
+
+#: 
+#, fuzzy
+msgid "人"
+msgstr "accounts"
+
+#: 
+#, fuzzy
+msgid "サンプル"
+msgstr "sample"
+
+#: 
+#, fuzzy
+msgid "ブロックされた数分布"
+msgstr "The number of the block distribution"
+
+#: 
+#, fuzzy
+msgid "ブロックした数分布"
+msgstr "The count was blocked distribution"
+
+#: 
+#, fuzzy
+msgid "相互ブロック件数"
+msgstr "mutual blocked"
+
+#: 
+#, fuzzy
+msgid "ブロック"
+msgstr "blocked"
+
+#: 
+#, fuzzy
+msgid "件以上ブロック"
+msgstr "accounts over blocked"
+
+#: 
+#, fuzzy
+msgid "件ブロック"
+msgstr "accounts blocked"
+
+#: 
+#, fuzzy
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Please tell me if there is a mistake in translation. 翻訳に間違いがあれば教えてください。"
+
+#: 
+#, fuzzy
+msgid "レコメンド機能はお休み中です。"
+msgstr "Recommendation feature is dormant."
+
+#: 
+#, fuzzy
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "日記より「ぶろるっく」タグの付いた投稿"
+

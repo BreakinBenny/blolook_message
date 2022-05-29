@@ -1,0 +1,172 @@
+#: Language name displayed in the language selection menu
+msgid "menu_name"
+msgstr "Türkçe/Turkish"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "web_site_description_content"
+msgstr "Blokların miktarı veya başkalarının sonuçları hakkında endişelenmemenizi öneririz. Hepimiz anlaşamayız."
+
+#: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
+msgid "ぶろるっく"
+msgstr "blolook"
+
+#: 
+msgid "全体の情報"
+msgstr "Genel bilgilendirme"
+
+#: 
+msgid "現在の登録アカウント数"
+msgstr "Şu anlık kaydolmuş hesaplar"
+
+#: 
+msgid "登録後連係解除アカウント"
+msgstr "Reddedilmiş hesaplar"
+
+#: 
+msgid "現在のブロック情報件数"
+msgstr "Mevcut blok bilgi sayısı"
+
+#: The number of people who are blocked.
+msgid "ユニーク件数"
+msgstr "Benzersiz sayı"
+
+#: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
+msgid "説明"
+msgstr "Bu hizmet, hesabınızı kaç hesabın engellediği hakkında bilgi sağlar.<br/>Bunu yapmak için hesabınızın hangi hesapları engellediği hakkında bilgi toplar ve diğer hesaplardan gelen bilgilerle çapraz referans veririz. <br/> (Bu hizmeti kullanmayan bir hesap hesabınızı engellediyse sayılmaz.) <br/> Bu hizmeti kullanan kullanıcı sayısı arttıkça verdiğimiz bilgiler daha doğru olacaktır.<br/>"
+
+#: 
+msgid "あなたの情報"
+msgstr "Senin hesabın"
+
+#: 
+msgid "ブロックされた件数"
+msgstr "Seni bloklamış hesaplar"
+
+#: 
+msgid "ブロックした件数"
+msgstr "Senin blokladığın hesaplar"
+
+#: 
+msgid "わたしは%s人からブロックされています"
+msgstr "%s kişi tarafından engellendim."
+
+#: 
+msgid "わたしは誰からもブロックされていません"
+msgstr "Hiç kimse tarafından engellenmedim."
+
+#: 
+msgid "わたしは誰からもブロックされていないはずです"
+msgstr "Muhtemelen kimse tarafından engellenmedim."
+
+#: 
+msgid "ブロックした覚えがない場合"
+msgstr "Bloklamayı hatırlamıyorsan"
+
+#: 
+msgid "Twitterのブロックしたユーザー一覧"
+msgstr "Lütfen <a href='https://twitter.com/settings/blocked' target='_blank'>Twitter'da engellediğiniz</a> kullanıcıların listesini kontrol edin."
+
+#: 
+msgid "Twitterのアプリ連携"
+msgstr "Lütfen yetkilendirmeyi hatırlamadığınız <a href='https://twitter.com/settings/applications' target='_blank'>Twitter hesabınıza bağlı uygulama</a> olmadığından emin olun."
+
+#: 
+msgid "レコメンド"
+msgstr "Önerilen"
+
+#: 
+msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
+msgstr "(Sizinle aynı hesapları bloke eden hesaplar, sizin engellediğiniz hesap olma eğilimindedir)"
+
+#: 
+msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
+msgstr "Engellenen hesaplarla ilgili bilgiler bir saat içinde toplanır ve bu nedenle yeni veriler güncellenirken engellenen taraflardan bilgi alma olasılığı vardır."
+
+#: 
+msgid "ログインして数えてみる"
+msgstr "Twitter ile giriş yap"
+
+#: 
+msgid "接待モード"
+msgstr "Engelleme bilgilerini gizle"
+
+#: 
+msgid "被ブロック情報は見ません"
+msgstr "Engelleme bilgilerini görüntüleme"
+
+#: 
+msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
+msgstr "“Kimin kimi engellediği” ile ilgili toplanan bilgiler hizmetimiz tarafından yayınlanmaz."
+
+#: 
+msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
+msgstr "Verilerimizi sürekli olarak güncellemek için bu uygulamayı bağlı bırakmanızı rica ediyoruz."
+
+#: 
+msgid "順位%s位"
+msgstr "Sıra numarası:%s"
+
+#: 
+msgid "制作者"
+msgstr "Yazar"
+
+#: 
+msgid "翻訳協力"
+msgstr "Çeviri işbirliği"
+
+#: 
+msgid "集計中"
+msgstr "Toplu"
+
+#: 
+msgid "あなたの位置"
+msgstr "Pozisyonunuz"
+
+#: 
+msgid "件"
+msgstr "sayaç"
+
+#: 
+msgid "人"
+msgstr "hesaplar"
+
+#: 
+msgid "サンプル"
+msgstr "örnek"
+
+#: 
+msgid "ブロックされた数分布"
+msgstr "Sizi engelleyen hesap sayısının dağılımı"
+
+#: 
+msgid "ブロックした数分布"
+msgstr "Engellenen hesap sayısının dağılımı"
+
+#: 
+msgid "相互ブロック件数"
+msgstr "Karşılıklı engellemeler"
+
+#: 
+msgid "ブロック"
+msgstr "engellenen"
+
+#: 
+msgid "件以上ブロック"
+msgstr "fazla engellenmiş hesaplar"
+
+#: 
+msgid "件ブロック"
+msgstr "engellenmiş hesaplar"
+
+#: 
+msgid "翻訳に間違いがあれば教えてください。"
+msgstr "Çeviride hata varsa lütfen söyleyiniz."
+
+#: 
+msgid "レコメンド機能はお休み中です。"
+msgstr "Öneriler şu anda mevcut değil."
+
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "(Japonca) \"blolook\" etiketli blog gönderileri"
+
