@@ -4,7 +4,7 @@ msgstr "svenska/Swedish"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "web_site_description_content"
-msgstr "Du behöver inte oroa dig över antal block eller andras resultat. Vi kan inte alla bli sams."
+msgstr "Du behöver inte oroa dig över antalet blockeringar eller andras resultat. Vi kan inte alla bli sams."
 
 #: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
 msgid "ぶろるっく"
@@ -12,7 +12,7 @@ msgstr "Blolook"
 
 #: 
 msgid "全体の情報"
-msgstr "Generell information"
+msgstr "Allmän information"
 
 #: 
 msgid "現在の登録アカウント数"
@@ -32,7 +32,7 @@ msgstr "Unik räkning"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "説明"
-msgstr "Denna tjänst kommer med information om hur många konton det är som blockar ditt konto. <br/>För att uppnå detta, samlar vi in information om vilka konton du blockar, och jämför det med information från andra konton. <br/> (Om ett konto som inte använder denna tjänst blockerar ditt konto, kommer den inte bli medräknad.) <br/> Medans tjänstens totala andel användare ökar, kommer informationen vi medför bli mer nogrann.<br/>"
+msgstr "Denna tjänst kommer med information om hur många konton det är som blockerar ditt konto. <br/>För att uppnå detta, samlar vi in information om vilka konton du blockerar, och jämför det med information från andra konton. <br/> (Om ett konto som inte använder denna tjänst blockerar ditt konto, kommer det inte att medräknas.) <br/> Medans tjänstens totala andel användare ökar, kommer informationen vi medför bli mer nogrann.<br/>"
 
 #: 
 msgid "あなたの情報"
@@ -40,35 +40,35 @@ msgstr "Ditt konto"
 
 #: 
 msgid "ブロックされた件数"
-msgstr "Konton som blockar dig"
+msgstr "Konton som blockerar dig"
 
 #: 
 msgid "ブロックした件数"
-msgstr "Konton du har blockat"
+msgstr "Konton du blockerar"
 
 #: 
 msgid "わたしは%s人からブロックされています"
-msgstr "Jag har blivit blockad av %s konton."
+msgstr "Jag har blivit blockerad av %s konton."
 
 #: 
 msgid "わたしは誰からもブロックされていません"
-msgstr "Jag har inte blivit blockad av någon."
+msgstr "Jag har inte blivit blockerad av någon."
 
 #: 
 msgid "わたしは誰からもブロックされていないはずです"
-msgstr "Jag har förmodligen inte blivit blockad av någon."
+msgstr "Jag har förmodligen inte blivit blockerad av någon."
 
 #: 
 msgid "ブロックした覚えがない場合"
-msgstr "Om du inte kommer ihåg att du har blockat"
+msgstr "Om du inte kommer ihåg att du har blockerat"
 
 #: 
 msgid "Twitterのブロックしたユーザー一覧"
-msgstr "Var vänlig dubbelkolla listan av användare du har blockerat<a href='https://twitter.com/settings/blocked' target='_blank'> på Twitter</a>."
+msgstr "Vänlieng dubbelkolla listan av användare du har blockerat<a href='https://twitter.com/settings/blocked' target='_blank'> på Twitter</a>."
 
 #: 
 msgid "Twitterのアプリ連携"
-msgstr "Var vänlig och dubbelkolla att det inte finns några appar<a href='https://twitter.com/settings/applications' target='_blank'> länkade till ditt Twitter-konto som du inte kommer ihåg att ha gett tillgång."
+msgstr "Vänligen ch dubbelkolla att det inte finns några appar<a href='https://twitter.com/settings/applications' target='_blank'> länkade till ditt Twitter-konto som du inte kommer ihåg att ha gett tillgång."
 
 #: 
 msgid "レコメンド"
@@ -76,11 +76,11 @@ msgstr "Rekommenderat"
 
 #: 
 msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
-msgstr "(Konton som har blockat samma konton som dig verkar också vara konton du har blockat)"
+msgstr "(Konton som har blockerat samma konton som dig verkar också vara konton du har blockerat)"
 
 #: 
 msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
-msgstr "Information om blockade konton är samlade inom en timme, och därför"
+msgstr "Information om blockerade konton samlas inom en timme, och därför"
 
 #: 
 msgid "ログインして数えてみる"
@@ -96,7 +96,7 @@ msgstr "Visa inte blockerad information"
 
 #: 
 msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
-msgstr "Insamlad information som avslöjar \"vem som blockade vem\" är ej publicerad av denna tjänst."
+msgstr "Insamlad information som avslöjar \"vem som blockerade vem\" är ej publicerad av denna tjänst."
 
 #: 
 msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
@@ -136,7 +136,7 @@ msgstr "Exempel"
 
 #: 
 msgid "ブロックされた数分布"
-msgstr "Distribution av hur många konton som blockar dig."
+msgstr "Distribution av hur många konton som blockerar dig."
 
 #: 
 msgid "ブロックした数分布"
@@ -152,7 +152,7 @@ msgstr "Blockerad"
 
 #: 
 msgid "件以上ブロック"
-msgstr "Konton över block"
+msgstr "Konton över blockeringar"
 
 #: 
 msgid "件ブロック"
