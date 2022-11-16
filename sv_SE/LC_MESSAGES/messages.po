@@ -112,7 +112,7 @@ msgstr "Författare"
 
 #: 
 msgid "翻訳協力"
-msgstr "Översättnings sammarbete"
+msgstr "Översättningsbidrag"
 
 #: 
 msgid "集計中"
