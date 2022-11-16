@@ -1,6 +1,6 @@
 #: Language name displayed in the language selection menu
 msgid "menu_name"
-msgstr "svenska/Swedish"
+msgstr "Svenska/Swedish"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "web_site_description_content"
@@ -48,15 +48,15 @@ msgstr "Konton du blockerar"
 
 #: 
 msgid "わたしは%s人からブロックされています"
-msgstr "Jag har blivit blockerad av %s konton."
+msgstr "Jag har blockerats av %s konton."
 
 #: 
 msgid "わたしは誰からもブロックされていません"
-msgstr "Jag har inte blivit blockerad av någon."
+msgstr "Jag har inte blockerats av någon."
 
 #: 
 msgid "わたしは誰からもブロックされていないはずです"
-msgstr "Jag har förmodligen inte blivit blockerad av någon."
+msgstr "Jag har förmodligen inte blockerats av någon."
 
 #: 
 msgid "ブロックした覚えがない場合"
@@ -64,11 +64,11 @@ msgstr "Om du inte kommer ihåg att du har blockerat"
 
 #: 
 msgid "Twitterのブロックしたユーザー一覧"
-msgstr "Vänlieng dubbelkolla listan av användare du har blockerat<a href='https://twitter.com/settings/blocked' target='_blank'> på Twitter</a>."
+msgstr "Vänligen dubbelkolla listan av användare du har blockerat <a href='https://twitter.com/settings/blocked' target='_blank'>på Twitter</a>."
 
 #: 
 msgid "Twitterのアプリ連携"
-msgstr "Vänligen ch dubbelkolla att det inte finns några appar<a href='https://twitter.com/settings/applications' target='_blank'> länkade till ditt Twitter-konto som du inte kommer ihåg att ha gett tillgång."
+msgstr "Vänligen dubbelkolla att det inte finns några appar <a href='https://twitter.com/settings/applications' target='_blank'>länkade till ditt Twitter-konto som du inte minns att du har gett tillgång."
 
 #: 
 msgid "レコメンド"
@@ -76,7 +76,7 @@ msgstr "Rekommenderat"
 
 #: 
 msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
-msgstr "(Konton som har blockerat samma konton som dig verkar också vara konton du har blockerat)"
+msgstr "(Konton som har blockerat samma konton som du verkar också vara konton du har blockerat)"
 
 #: 
 msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
@@ -124,7 +124,7 @@ msgstr "Din position"
 
 #: 
 msgid "件"
-msgstr "Räkning"
+msgstr "Antal"
 
 #: 
 msgid "人"
@@ -140,11 +140,11 @@ msgstr "Distribution av hur många konton som blockerar dig."
 
 #: 
 msgid "ブロックした数分布"
-msgstr "Distribution av hur konton du har blockerat."
+msgstr "Distribution av hur många konton du har blockerat."
 
 #: 
 msgid "相互ブロック件数"
-msgstr "Lika(ömsesidiga) block"
+msgstr "Gemensamma blockeringar"
 
 #: 
 msgid "ブロック"
@@ -156,11 +156,11 @@ msgstr "Konton över blockeringar"
 
 #: 
 msgid "件ブロック"
-msgstr "Konton som är blockerade"
+msgstr "Blockerade konton"
 
 #: 
 msgid "翻訳に間違いがあれば教えてください。"
-msgstr "Var vänlig kontakta mig om det finns ett misstag i översättningen."
+msgstr "Vänligen kontakta mig om det finns ett misstag i översättningen."
 
 #: 
 msgid "レコメンド機能はお休み中です。"
@@ -169,4 +169,3 @@ msgstr "Rekommendationer är för nuvarande inte tillgängliga."
 #: 
 msgid "日記より「ぶろるっく」タグの付いた投稿"
 msgstr "Inlägg med taggad \"blolook\""
-
