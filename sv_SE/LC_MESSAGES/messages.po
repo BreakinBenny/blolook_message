@@ -80,11 +80,10 @@ msgstr "(Konton som har blockerat samma konton som du verkar också vara konton 
 
 #: 
 msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
-msgstr "Information om blockerade konton samlas inom en timme, och därför"
-
+msgstr "Information om blockerade konton samlas inom en timme, därmed finns möjligheten att ta in information från blockerade partier medan ny data uppdateras."
 #: 
 msgid "ログインして数えてみる"
-msgstr "Logga in med Twitter."
+msgstr "Logga in med Twitter"
 
 #: 
 msgid "接待モード"
