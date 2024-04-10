@@ -170,3 +170,17 @@ msgstr "レコメンド機能はお休み中です。"
 msgid "日記より「ぶろるっく」タグの付いた投稿"
 msgstr "日記より「ぶろるっく」タグの付いた投稿"
 
+msgid "Cookieの利用について"
+msgstr "Cookieの利用について"
+
+msgid "プライバシーポリシー"
+msgstr "プライバシーポリシー"
+
+msgid "同意説明文"
+msgstr "このサイトでは、アクセス解析や広告の個人向け最適化のためにcookieの使用、データの収集を行います。<br>アクセス解析としてGoogle Analyticsを、広告表示としてGoogle AdSenseを使用し、それぞれにアクセス情報を送信しています。<br>"
+
+msgid "同意する"
+msgstr "同意する"
+
+msgid "同意しない"
+msgstr "同意しない"

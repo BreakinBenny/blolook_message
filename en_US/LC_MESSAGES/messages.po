@@ -84,7 +84,7 @@ msgstr "Information about blocked accounts is collected within an hour, and ther
 
 #: 
 msgid "ログインして数えてみる"
-msgstr "Log in with Twitter"
+msgstr "Log in with X"
 
 #: 
 msgid "接待モード"
@@ -170,3 +170,17 @@ msgstr "Recommendations are not currently available."
 msgid "日記より「ぶろるっく」タグの付いた投稿"
 msgstr "(Japanese language) blog posts tagged \"blolook\""
 
+msgid "Cookieの利用について"
+msgstr "About the use of cookies"
+
+msgid "プライバシーポリシー"
+msgstr "Privacy policy"
+
+msgid "同意説明文"
+msgstr "This site uses cookies and collects data for access analysis and personalized advertising optimization.<br>We use Google Analytics for access analysis and Google AdSense for advertising display, and send access information to each.<br>"
+
+msgid "同意する"
+msgstr "Agree"
+
+msgid "同意しない"
+msgstr "Disagree"
