@@ -4,7 +4,7 @@ msgstr "Español/Spanish"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "web_site_description_content"
-msgstr "Le sugerimos que no se preocupe por la cantidad de bloqueos o por los resultados de otros. No todos podemos llevarnos bien."
+msgstr "Sugerimos que no se preocupe por la cantidad de bloqueos o por los resultados de otros. No todos podemos llevarnos bien."
 
 #: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
 msgid "ぶろるっく"
@@ -24,7 +24,7 @@ msgstr "Cuentas suspendidas"
 
 #: 
 msgid "現在のブロック情報件数"
-msgstr "Recuento de bloqueos actualmente"
+msgstr "Recuento de bloqueos en vivo"
 
 #: The number of people who are blocked.
 msgid "ユニーク件数"
@@ -32,11 +32,11 @@ msgstr "Recuento único"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "説明"
-msgstr "Este servicio recopila información de las cuentas que te han bloqueado.<br/>Para ello, recolectamos información de qué cuentas han hecho esto, y compararlo con la información de otras cuentas.  <br/> (Sin embargo, el sistema no podrá analizar cuentas que no están registradas en la base de datos.)  <br/> No obstante, a medida de que se incorporen más usuarios a la base de datos, el valor de cuentas bloqueándote será más exacto.<br/>"
+msgstr "Este servicio recopila información de las cuentas que te han bloqueado.<br/>Para ello, recolectamos información de qué cuentas han hecho esto, y comparamos con información de otros.  <br/> (Sin embargo, el sistema no podrá analizar cuentas que no están registradas en la base de datos.)  <br/> No obstante, a medida de que se incorporen más usuarios a la base de datos, el valor de cuentas bloqueándote será más exacto.<br/>"
 
 #: 
 msgid "あなたの情報"
-msgstr "Tu cuenta"
+msgstr "Tu resumen"
 
 #: 
 msgid "ブロックされた件数"
@@ -48,7 +48,7 @@ msgstr "N° de cuentas bloqueadas"
 
 #: 
 msgid "わたしは%s人からブロックされています"
-msgstr "El %s de personas me han bloqueado."
+msgstr "Porcentaje de personas que me han bloqueado."
 
 #: 
 msgid "わたしは誰からもブロックされていません"
@@ -68,19 +68,19 @@ msgstr "Comprueba la lista de usuarios que <a href='https://twitter.com/settings
 
 #: 
 msgid "Twitterのアプリ連携"
-msgstr "Por favor, <a href='https://twitter.com/settings/applications' target='_blank'>revisa acá</a> si hay páginas a la que no les permitiste el acceso a tu cuenta."
+msgstr "Por favor, <a href='https://twitter.com/settings/applications' target='_blank'>revisa acá</a> si hay aplicaciones a la que no les permitiste el acceso a tu cuenta."
 
 #: 
 msgid "レコメンド"
-msgstr "Recomendados"
+msgstr "Recomendaciones"
 
 #: 
 msgid "（あなたがブロックしたアカウントと同じアカウントをブロックをしている他のアカウントがわりとブロックしているアカウント）"
-msgstr "(Las cuentas bloqueadas tanto por ti como por el otro usuario tienden a ser cuentas que habrás bloqueado)"
+msgstr "(Las cuentas que hayan bloqueado otros tienden a ser cuentas que hayas bloqueado también)"
 
 #: 
 msgid "1時間以内にブロック情報を取得している場合、データの更新を行わないため、ブロック済みのアカウントが表示される場合があります。"
-msgstr "La información de las cuentas bloqueadas es procesada en una hora, por lo que existe la posibilidad de recibir información de usuarios bloqueados mientras nuevos datos está siendo actualizados."
+msgstr "La información de las cuentas bloqueadas es procesada en una hora, por lo que existe la posibilidad de recibir información errónea mientras más datos llegan."
 
 #: 
 msgid "ログインして数えてみる"
@@ -88,7 +88,7 @@ msgstr "Iniciar sesión con Twitter"
 
 #: 
 msgid "接待モード"
-msgstr "Ocultar información de bloqueos"
+msgstr "Ocultar información"
 
 #: 
 msgid "被ブロック情報は見ません"
@@ -96,11 +96,11 @@ msgstr "No ver la información de bloqueos"
 
 #: 
 msgid "このサービスで収集した「誰が誰をブロックしたか」という情報は公開いたしません。"
-msgstr "Toda la información almacenada en este servicio de “quién bloqueó a quién” no será publicada bajo ninguna circunstancia."
+msgstr "Toda la información almacenada en este sitio web, como “quién bloqueó a quién” no será publicada bajo ninguna circunstancia."
 
 #: 
 msgid "定期的にデータを更新するためアプリ連携を残して欲しいです"
-msgstr "Para que nuestra base de datos se actualice adecuadamente, sugerimos que deje vinculada la aplicación a su cuenta."
+msgstr "Para que nuestra base de datos se actualice adecuadamente, sugerimos que deje vinculada esta aplicación a su cuenta."
 
 #: 
 msgid "順位%s位"
@@ -124,7 +124,7 @@ msgstr "Tu posición"
 
 #: 
 msgid "件"
-msgstr "recuento"
+msgstr "conteo"
 
 #: 
 msgid "人"
@@ -144,7 +144,7 @@ msgstr "Distribución de cuentas que bloqueaste"
 
 #: 
 msgid "相互ブロック件数"
-msgstr "Bloqueados mutualmente"
+msgstr "Bloqueados mutuamente"
 
 #: 
 msgid "ブロック"
@@ -152,7 +152,7 @@ msgstr "bloqueados"
 
 #: 
 msgid "件以上ブロック"
-msgstr "cuentas sobre el bloqueo"
+msgstr "cuentas sobre bloqueados"
 
 #: 
 msgid "件ブロック"
@@ -170,3 +170,21 @@ msgstr "Las recomendaciones no están disponibles."
 msgid "日記より「ぶろるっく」タグの付いた投稿"
 msgstr "(\"日記より「ぶろるっく」タグの付いた投稿\")"
 
+#: 
+msgid "日記より「ぶろるっく」タグの付いた投稿"
+msgstr "(en Japonés) Blogposts mencionando a \"blolook\""
+
+msgid "Cookieの利用について"
+msgstr "Acerca del uso de cookies"
+
+msgid "プライバシーポリシー"
+msgstr "Política de Privacidad"
+
+msgid "同意説明文"
+msgstr "Este sitio usa cookies y recolecta tus datos para analizarlos y personalizar tu experiencia.<br>Usamos Google Analytics para analísis, Google AdSense para mostrar anuncios, y mandar información de acceso a ambos.<br>"
+
+msgid "同意する"
+msgstr "Aceptar"
+
+msgid "同意しない"
+msgstr "Rechazar"
