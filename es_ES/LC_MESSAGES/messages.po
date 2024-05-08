@@ -4,7 +4,7 @@ msgstr "Español/Spanish"
 
 #: The original is a keyword for embedding. Please refer to the Japanese or English text for translation.
 msgid "web_site_description_content"
-msgstr "Sugerimos que no se preocupe por la cantidad de bloqueos o por los resultados de otros. No todos podemos llevarnos bien."
+msgstr "Sugerimos que no te preocupes por la cantidad de bloqueos o por los resultados de otros. No todos podemos llevarnos bien."
 
 #: This is the name of the service. It's a term coined from the Japanese word "look the block". Please don't stray too far from the blolook used in the URL or the Japanese name "ぶろるっく".
 msgid "ぶろるっく"
@@ -48,7 +48,7 @@ msgstr "N° de cuentas bloqueadas"
 
 #: 
 msgid "わたしは%s人からブロックされています"
-msgstr "Porcentaje de personas que me han bloqueado."
+msgstr "% de personas que me han bloqueado."
 
 #: 
 msgid "わたしは誰からもブロックされていません"
