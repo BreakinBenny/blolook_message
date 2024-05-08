@@ -46,9 +46,9 @@ msgstr "N° de cuentas bloqueándote"
 msgid "ブロックした件数"
 msgstr "N° de cuentas bloqueadas"
 
-#: 
+#: Please check if %s value shows between words!
 msgid "わたしは%s人からブロックされています"
-msgstr "% de personas que me han bloqueado."
+msgstr "El %s de personas me ha bloqueado."
 
 #: 
 msgid "わたしは誰からもブロックされていません"
