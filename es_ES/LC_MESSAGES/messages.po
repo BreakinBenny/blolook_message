@@ -168,10 +168,6 @@ msgstr "Las recomendaciones no están disponibles."
 
 #: 
 msgid "日記より「ぶろるっく」タグの付いた投稿"
-msgstr "(\"日記より「ぶろるっく」タグの付いた投稿\")"
-
-#: 
-msgid "日記より「ぶろるっく」タグの付いた投稿"
 msgstr "(en Japonés) Blogposts mencionando a \"blolook\""
 
 msgid "Cookieの利用について"
